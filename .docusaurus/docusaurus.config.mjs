@@ -30,8 +30,8 @@ export default {
   },
   "url": "https://docs.dulyplan.com",
   "baseUrl": "/",
-  "organizationName": "dulyplan",
-  "projectName": "dulyplan-documentation",
+  "organizationName": "Abhishek1998-cpu",
+  "projectName": "Digitrix-documentation",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -47,7 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/"
+          "editUrl": "https://github.com/Abhishek1998-cpu/Digitrix-documentation/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -58,7 +58,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/",
+          "editUrl": "https://github.com/Abhishek1998-cpu/Digitrix-documentation/tree/main/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -95,7 +95,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/dulyplan",
+          "href": "https://github.com/Abhishek1998-cpu/Digitrix-documentation",
           "label": "GitHub",
           "position": "right"
         }
@@ -140,7 +140,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/Abhishek1998-cpu/Digitrix-documentation"
             }
           ]
         }

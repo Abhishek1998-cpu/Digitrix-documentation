@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'dulyplan', // Usually your GitHub org/user name.
-  projectName: 'dulyplan-documentation', // Usually your repo name.
+  organizationName: 'Abhishek1998-cpu', // Usually your GitHub org/user name.
+  projectName: 'Digitrix-documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dulyplan/dulyplan-documentation/tree/main/',
+            'https://github.com/Abhishek1998-cpu/Digitrix-documentation/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dulyplan/dulyplan-documentation/tree/main/',
+            'https://github.com/Abhishek1998-cpu/Digitrix-documentation/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -89,7 +89,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/dulyplan',
+          href: 'https://github.com/Abhishek1998-cpu/Digitrix-documentation',
           label: 'GitHub',
           position: 'right',
         },
@@ -133,7 +133,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Abhishek1998-cpu/Digitrix-documentation',
             },
           ],
         },
