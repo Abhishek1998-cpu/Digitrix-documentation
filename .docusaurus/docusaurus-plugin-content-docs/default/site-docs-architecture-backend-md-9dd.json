@@ -1,0 +1,27 @@
+{
+  "id": "architecture/backend",
+  "title": "Backend Architecture",
+  "description": "This document describes the backend architecture of DulyPlan.",
+  "source": "@site/docs/architecture/backend.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/backend",
+  "permalink": "/docs/architecture/backend",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/architecture/backend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture Overview",
+    "permalink": "/docs/architecture/overview"
+  },
+  "next": {
+    "title": "Frontend Architecture",
+    "permalink": "/docs/architecture/frontend"
+  }
+}

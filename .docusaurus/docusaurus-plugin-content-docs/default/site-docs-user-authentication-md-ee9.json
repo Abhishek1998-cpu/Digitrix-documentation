@@ -1,0 +1,27 @@
+{
+  "id": "user/authentication",
+  "title": "User Authentication",
+  "description": "Learn how user authentication works in DulyPlan.",
+  "source": "@site/docs/user/authentication.md",
+  "sourceDirName": "user",
+  "slug": "/user/authentication",
+  "permalink": "/docs/user/authentication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/user/authentication.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Management Overview",
+    "permalink": "/docs/user/overview"
+  },
+  "next": {
+    "title": "User Roles & Permissions",
+    "permalink": "/docs/user/roles-permissions"
+  }
+}

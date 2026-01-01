@@ -1,0 +1,27 @@
+{
+  "id": "features/social-accounts",
+  "title": "Social Media Accounts",
+  "description": "Manage your connected social media accounts in DulyPlan.",
+  "source": "@site/docs/features/social-accounts.md",
+  "sourceDirName": "features",
+  "slug": "/features/social-accounts",
+  "permalink": "/docs/features/social-accounts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/features/social-accounts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to DulyPlan Documentation",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Creating Posts",
+    "permalink": "/docs/features/creating-posts"
+  }
+}

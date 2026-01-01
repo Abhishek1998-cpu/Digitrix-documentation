@@ -1,0 +1,27 @@
+{
+  "id": "api/overview",
+  "title": "API Overview",
+  "description": "The DulyPlan API provides programmatic access to the platform's features and data.",
+  "source": "@site/docs/api/overview.md",
+  "sourceDirName": "api",
+  "slug": "/api/overview",
+  "permalink": "/docs/api/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/api/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Strapi Webhook Configuration",
+    "permalink": "/docs/strapi/webhook-configuration"
+  },
+  "next": {
+    "title": "Authentication API",
+    "permalink": "/docs/api/authentication"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/dashboard-overview",
+  "title": "Dashboard Overview",
+  "description": "Get familiar with the DulyPlan dashboard and its main features.",
+  "source": "@site/docs/getting-started/dashboard-overview.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/dashboard-overview",
+  "permalink": "/docs/getting-started/dashboard-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/getting-started/dashboard-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Account Setup",
+    "permalink": "/docs/getting-started/account-setup"
+  },
+  "next": {
+    "title": "Connecting Social Media Accounts",
+    "permalink": "/docs/getting-started/connecting-accounts"
+  }
+}

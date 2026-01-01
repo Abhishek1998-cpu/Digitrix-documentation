@@ -1,0 +1,23 @@
+{
+  "id": "getting-started/overview",
+  "title": "Getting Started with DulyPlan",
+  "description": "Welcome to DulyPlan! This guide will help you get started with the platform.",
+  "source": "@site/docs/getting-started/overview.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/overview",
+  "permalink": "/docs/getting-started/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/getting-started/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Account Setup",
+    "permalink": "/docs/getting-started/account-setup"
+  }
+}

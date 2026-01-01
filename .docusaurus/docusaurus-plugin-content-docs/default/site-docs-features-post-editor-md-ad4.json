@@ -1,0 +1,27 @@
+{
+  "id": "features/post-editor",
+  "title": "Post Editor Features",
+  "description": "Advanced features available in the DulyPlan post editor.",
+  "source": "@site/docs/features/post-editor.md",
+  "sourceDirName": "features",
+  "slug": "/features/post-editor",
+  "permalink": "/docs/features/post-editor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/features/post-editor.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scheduling Posts",
+    "permalink": "/docs/features/scheduling"
+  },
+  "next": {
+    "title": "User Management Overview",
+    "permalink": "/docs/user/overview"
+  }
+}

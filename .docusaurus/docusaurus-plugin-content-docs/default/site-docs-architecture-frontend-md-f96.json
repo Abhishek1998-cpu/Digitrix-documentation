@@ -1,0 +1,27 @@
+{
+  "id": "architecture/frontend",
+  "title": "Frontend Architecture",
+  "description": "This document describes the frontend architecture of DulyPlan.",
+  "source": "@site/docs/architecture/frontend.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/frontend",
+  "permalink": "/docs/architecture/frontend",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/architecture/frontend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Backend Architecture",
+    "permalink": "/docs/architecture/backend"
+  },
+  "next": {
+    "title": "Strapi Integration Overview",
+    "permalink": "/docs/strapi/overview"
+  }
+}

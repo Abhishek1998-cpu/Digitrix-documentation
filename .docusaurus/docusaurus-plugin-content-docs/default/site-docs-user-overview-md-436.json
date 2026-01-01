@@ -1,0 +1,27 @@
+{
+  "id": "user/overview",
+  "title": "User Management Overview",
+  "description": "Everything you need to know about users, authentication, and roles in DulyPlan.",
+  "source": "@site/docs/user/overview.md",
+  "sourceDirName": "user",
+  "slug": "/user/overview",
+  "permalink": "/docs/user/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/user/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Post Editor Features",
+    "permalink": "/docs/features/post-editor"
+  },
+  "next": {
+    "title": "User Authentication",
+    "permalink": "/docs/user/authentication"
+  }
+}

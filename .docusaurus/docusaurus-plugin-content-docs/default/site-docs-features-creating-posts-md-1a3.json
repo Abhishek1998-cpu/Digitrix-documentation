@@ -1,0 +1,27 @@
+{
+  "id": "features/creating-posts",
+  "title": "Creating Posts",
+  "description": "Learn how to create and publish posts on DulyPlan.",
+  "source": "@site/docs/features/creating-posts.md",
+  "sourceDirName": "features",
+  "slug": "/features/creating-posts",
+  "permalink": "/docs/features/creating-posts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/features/creating-posts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Social Media Accounts",
+    "permalink": "/docs/features/social-accounts"
+  },
+  "next": {
+    "title": "Scheduling Posts",
+    "permalink": "/docs/features/scheduling"
+  }
+}

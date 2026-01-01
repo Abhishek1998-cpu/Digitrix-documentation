@@ -1,0 +1,27 @@
+{
+  "id": "features/scheduling",
+  "title": "Scheduling Posts",
+  "description": "Learn how to schedule posts for future publication.",
+  "source": "@site/docs/features/scheduling.md",
+  "sourceDirName": "features",
+  "slug": "/features/scheduling",
+  "permalink": "/docs/features/scheduling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/features/scheduling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating Posts",
+    "permalink": "/docs/features/creating-posts"
+  },
+  "next": {
+    "title": "Post Editor Features",
+    "permalink": "/docs/features/post-editor"
+  }
+}

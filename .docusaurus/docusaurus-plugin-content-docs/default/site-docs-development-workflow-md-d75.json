@@ -1,0 +1,27 @@
+{
+  "id": "development/workflow",
+  "title": "Development Workflow",
+  "description": "Learn about the development workflow for contributing to DulyPlan.",
+  "source": "@site/docs/development/workflow.md",
+  "sourceDirName": "development",
+  "slug": "/development/workflow",
+  "permalink": "/docs/development/workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/development/workflow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development Setup",
+    "permalink": "/docs/development/setup"
+  },
+  "next": {
+    "title": "Code Structure",
+    "permalink": "/docs/development/code-structure"
+  }
+}

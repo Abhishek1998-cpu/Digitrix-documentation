@@ -1,0 +1,27 @@
+{
+  "id": "user/roles-permissions",
+  "title": "User Roles & Permissions",
+  "description": "Understand how user roles and permissions work in DulyPlan.",
+  "source": "@site/docs/user/roles-permissions.md",
+  "sourceDirName": "user",
+  "slug": "/user/roles-permissions",
+  "permalink": "/docs/user/roles-permissions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/user/roles-permissions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Authentication",
+    "permalink": "/docs/user/authentication"
+  },
+  "next": {
+    "title": "Account Management",
+    "permalink": "/docs/user/account-management"
+  }
+}

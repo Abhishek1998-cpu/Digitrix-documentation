@@ -1,0 +1,27 @@
+{
+  "id": "strapi/frontend-integration",
+  "title": "Frontend Strapi Integration",
+  "description": "Learn how the frontend integrates with Strapi content.",
+  "source": "@site/docs/strapi/frontend-integration.md",
+  "sourceDirName": "strapi",
+  "slug": "/strapi/frontend-integration",
+  "permalink": "/docs/strapi/frontend-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/strapi/frontend-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Backend Strapi Integration",
+    "permalink": "/docs/strapi/backend-integration"
+  },
+  "next": {
+    "title": "Strapi Data Structure",
+    "permalink": "/docs/strapi/data-structure"
+  }
+}

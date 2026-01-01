@@ -1,0 +1,27 @@
+{
+  "id": "strapi/overview",
+  "title": "Strapi Integration Overview",
+  "description": "Learn how DulyPlan integrates with Strapi CMS for content management.",
+  "source": "@site/docs/strapi/overview.md",
+  "sourceDirName": "strapi",
+  "slug": "/strapi/overview",
+  "permalink": "/docs/strapi/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/strapi/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frontend Architecture",
+    "permalink": "/docs/architecture/frontend"
+  },
+  "next": {
+    "title": "Backend Strapi Integration",
+    "permalink": "/docs/strapi/backend-integration"
+  }
+}

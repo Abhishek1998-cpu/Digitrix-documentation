@@ -1,0 +1,27 @@
+{
+  "id": "intro",
+  "title": "Welcome to DulyPlan Documentation",
+  "description": "Welcome to the official documentation for DulyPlan - a comprehensive social media management platform that helps you plan, schedule, and manage your social media presence across multiple platforms.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connecting Social Media Accounts",
+    "permalink": "/docs/getting-started/connecting-accounts"
+  },
+  "next": {
+    "title": "Social Media Accounts",
+    "permalink": "/docs/features/social-accounts"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "api/posts",
+  "title": "Post Management API",
+  "description": "API endpoints for creating, managing, and scheduling posts.",
+  "source": "@site/docs/api/posts.md",
+  "sourceDirName": "api",
+  "slug": "/api/posts",
+  "permalink": "/docs/api/posts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/api/posts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Authentication API",
+    "permalink": "/docs/api/authentication"
+  },
+  "next": {
+    "title": "Social Accounts API",
+    "permalink": "/docs/api/social-accounts"
+  }
+}

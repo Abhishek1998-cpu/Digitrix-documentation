@@ -1,0 +1,27 @@
+{
+  "id": "user/account-management",
+  "title": "Account Management",
+  "description": "Learn how to manage your DulyPlan account and organization.",
+  "source": "@site/docs/user/account-management.md",
+  "sourceDirName": "user",
+  "slug": "/user/account-management",
+  "permalink": "/docs/user/account-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/user/account-management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Roles & Permissions",
+    "permalink": "/docs/user/roles-permissions"
+  },
+  "next": {
+    "title": "Architecture Overview",
+    "permalink": "/docs/architecture/overview"
+  }
+}

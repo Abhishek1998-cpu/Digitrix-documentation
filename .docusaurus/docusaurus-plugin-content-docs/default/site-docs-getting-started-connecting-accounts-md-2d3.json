@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/connecting-accounts",
+  "title": "Connecting Social Media Accounts",
+  "description": "Learn how to connect your social media accounts to DulyPlan.",
+  "source": "@site/docs/getting-started/connecting-accounts.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/connecting-accounts",
+  "permalink": "/docs/getting-started/connecting-accounts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/getting-started/connecting-accounts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard Overview",
+    "permalink": "/docs/getting-started/dashboard-overview"
+  },
+  "next": {
+    "title": "Welcome to DulyPlan Documentation",
+    "permalink": "/docs/intro"
+  }
+}

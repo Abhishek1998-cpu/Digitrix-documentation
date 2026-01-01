@@ -1,0 +1,27 @@
+{
+  "id": "strapi/data-structure",
+  "title": "Strapi Data Structure",
+  "description": "Understand the structure of Strapi content data in DulyPlan.",
+  "source": "@site/docs/strapi/data-structure.md",
+  "sourceDirName": "strapi",
+  "slug": "/strapi/data-structure",
+  "permalink": "/docs/strapi/data-structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/strapi/data-structure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frontend Strapi Integration",
+    "permalink": "/docs/strapi/frontend-integration"
+  },
+  "next": {
+    "title": "Strapi Usage Examples",
+    "permalink": "/docs/strapi/usage-examples"
+  }
+}

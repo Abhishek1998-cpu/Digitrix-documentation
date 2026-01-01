@@ -1,0 +1,27 @@
+{
+  "id": "strapi/webhook-configuration",
+  "title": "Strapi Webhook Configuration",
+  "description": "Learn how to configure Strapi webhooks to automatically update content in DulyPlan.",
+  "source": "@site/docs/strapi/webhook-configuration.md",
+  "sourceDirName": "strapi",
+  "slug": "/strapi/webhook-configuration",
+  "permalink": "/docs/strapi/webhook-configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/strapi/webhook-configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Strapi Usage Examples",
+    "permalink": "/docs/strapi/usage-examples"
+  },
+  "next": {
+    "title": "API Overview",
+    "permalink": "/docs/api/overview"
+  }
+}

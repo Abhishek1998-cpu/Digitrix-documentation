@@ -1,0 +1,178 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/overview",
+          "docs": [
+            {
+              "id": "api/authentication",
+              "path": "/docs/api/authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/overview",
+              "path": "/docs/api/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/posts",
+              "path": "/docs/api/posts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/social-accounts",
+              "path": "/docs/api/social-accounts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/backend",
+              "path": "/docs/architecture/backend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/frontend",
+              "path": "/docs/architecture/frontend",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/overview",
+              "path": "/docs/architecture/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/code-structure",
+              "path": "/docs/development/code-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/setup",
+              "path": "/docs/development/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/workflow",
+              "path": "/docs/development/workflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/docs/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/creating-posts",
+              "path": "/docs/features/creating-posts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/post-editor",
+              "path": "/docs/features/post-editor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/scheduling",
+              "path": "/docs/features/scheduling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/social-accounts",
+              "path": "/docs/features/social-accounts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/account-setup",
+              "path": "/docs/getting-started/account-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/connecting-accounts",
+              "path": "/docs/getting-started/connecting-accounts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/dashboard-overview",
+              "path": "/docs/getting-started/dashboard-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/overview",
+              "path": "/docs/getting-started/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strapi/backend-integration",
+              "path": "/docs/strapi/backend-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strapi/data-structure",
+              "path": "/docs/strapi/data-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strapi/frontend-integration",
+              "path": "/docs/strapi/frontend-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strapi/overview",
+              "path": "/docs/strapi/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strapi/usage-examples",
+              "path": "/docs/strapi/usage-examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strapi/webhook-configuration",
+              "path": "/docs/strapi/webhook-configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/account-management",
+              "path": "/docs/user/account-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/authentication",
+              "path": "/docs/user/authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/overview",
+              "path": "/docs/user/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user/roles-permissions",
+              "path": "/docs/user/roles-permissions",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/getting-started/overview",
+                "label": "getting-started/overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

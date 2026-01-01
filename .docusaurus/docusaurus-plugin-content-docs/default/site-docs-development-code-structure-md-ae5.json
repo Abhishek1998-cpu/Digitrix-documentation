@@ -1,0 +1,27 @@
+{
+  "id": "development/code-structure",
+  "title": "Code Structure",
+  "description": "Understand the codebase structure and organization.",
+  "source": "@site/docs/development/code-structure.md",
+  "sourceDirName": "development",
+  "slug": "/development/code-structure",
+  "permalink": "/docs/development/code-structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/development/code-structure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development Workflow",
+    "permalink": "/docs/development/workflow"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/docs/faq"
+  }
+}

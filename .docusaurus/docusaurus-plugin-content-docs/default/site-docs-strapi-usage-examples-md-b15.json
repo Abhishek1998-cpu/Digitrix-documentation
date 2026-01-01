@@ -1,0 +1,27 @@
+{
+  "id": "strapi/usage-examples",
+  "title": "Strapi Usage Examples",
+  "description": "Practical examples of how to use Strapi content in your code.",
+  "source": "@site/docs/strapi/usage-examples.md",
+  "sourceDirName": "strapi",
+  "slug": "/strapi/usage-examples",
+  "permalink": "/docs/strapi/usage-examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dulyplan/dulyplan-documentation/tree/main/docs/strapi/usage-examples.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Strapi Data Structure",
+    "permalink": "/docs/strapi/data-structure"
+  },
+  "next": {
+    "title": "Strapi Webhook Configuration",
+    "permalink": "/docs/strapi/webhook-configuration"
+  }
+}
