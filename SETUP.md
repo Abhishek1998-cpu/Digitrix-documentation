@@ -23,7 +23,7 @@ npm start
 
 This will:
 - Start the development server
-- Open http://localhost:3000 in your browser
+- Open http://localhost:3002 in your browser
 - Enable hot-reloading for live updates
 
 ### 3. Build for Production
