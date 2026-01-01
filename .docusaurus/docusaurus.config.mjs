@@ -28,10 +28,8 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://docs.dulyplan.com",
+  "url": "https://doc.dulyplan.com",
   "baseUrl": "/",
-  "organizationName": "Abhishek1998-cpu",
-  "projectName": "Digitrix-documentation",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -145,7 +143,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2026 DulyPlan. All rights reserved. Built with Docusaurus."
+      "copyright": "Copyright © 2026 DulyPlan. All rights reserved."
     },
     "prism": {
       "theme": {
